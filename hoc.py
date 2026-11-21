@@ -25,7 +25,7 @@ with st.form("survey_form", clear_on_submit=True):
 
   tinh_nang = st.multiselect(
       "4. Bạn quan tâm đến tính năng nào nhất? (Chọn nhiều)",
-      ["Tốc độ xử lý", "Giao diện đẹp"],
+      ["Tốc độ xử lý", "Giao diện đẹp", "Anh nam béo"],
   )
 
   gop_y = st.text_area("5. Góp ý thêm của bạn:")
