@@ -5,7 +5,7 @@ st.set_page_config(
     page_title="Biểu mẫu Khảo sát", page_icon="📝", layout="centered"
 )
 
-st.title("📝 Khảo sát người nhà.")
+st.title("📝 Khảo sát.")
 st.write("Vui lòng điền thông tin dưới đây để hoàn thành khảo sát.")
 
 # Biểu mẫu nhập liệu
